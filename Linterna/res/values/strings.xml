@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Linterna</string>
+    <string name="notification_text">ir a la aplicación</string>
+    <string name="text_on_button">Encender</string>
+    <string name="text_off_button">Apagar</string>
+    <string name="text_error">No se pudo acceder a la cámara</string>
+    <string name="action_settings">Settings</string>
+    
+
+</resources>
